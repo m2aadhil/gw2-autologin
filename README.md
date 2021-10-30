@@ -10,3 +10,5 @@ attach email and pw 1 by 1 on new lines as the example login details
 Then Run the GW2AutoLogin.exe file..
 
 Don't focus out the window it'll break the process..
+
+Dont forget to untick remeber user and pw and make sure your gw2 is updated
