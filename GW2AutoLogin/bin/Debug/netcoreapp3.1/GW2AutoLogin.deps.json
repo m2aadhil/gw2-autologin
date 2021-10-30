@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GW2AutoLogin/1.0.0": {
+        "dependencies": {
+          "H.InputSimulator": "1.2.1"
+        },
+        "runtime": {
+          "GW2AutoLogin.dll": {}
+        }
+      },
+      "H.InputSimulator/1.2.1": {
+        "runtime": {
+          "lib/netstandard2.0/H.InputSimulator.dll": {
+            "assemblyVersion": "1.2.1.0",
+            "fileVersion": "1.2.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GW2AutoLogin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "H.InputSimulator/1.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TyTDfqlAgRGeOqnbV9jRe4NClSHiLuU3MRJ6dcsNV3f3P7Dq9WIj05M9xq8+jpKaL3Wh6xBjxALzD7pQBc9p2g==",
+      "path": "h.inputsimulator/1.2.1",
+      "hashPath": "h.inputsimulator.1.2.1.nupkg.sha512"
+    }
+  }
+}

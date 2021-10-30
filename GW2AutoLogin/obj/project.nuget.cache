@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CkR3xWh6PAh7J5gjMAH3La9D4h5NOCEhvgw7weXaiwUgiLMPXpoCcVUpsrHEWS7vrkuv19k6e/e3jJK9C+v7kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aadhil\\source\\repos\\GW2AutoLogin\\GW2AutoLogin\\GW2AutoLogin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aadhil\\.nuget\\packages\\h.inputsimulator\\1.2.1\\h.inputsimulator.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

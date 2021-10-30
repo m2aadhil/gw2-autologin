@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "H.InputSimulator/1.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/H.InputSimulator.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/H.InputSimulator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "H.InputSimulator/1.2.1": {
+      "sha512": "TyTDfqlAgRGeOqnbV9jRe4NClSHiLuU3MRJ6dcsNV3f3P7Dq9WIj05M9xq8+jpKaL3Wh6xBjxALzD7pQBc9p2g==",
+      "type": "package",
+      "path": "h.inputsimulator/1.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "h.inputsimulator.1.2.1.nupkg.sha512",
+        "h.inputsimulator.nuspec",
+        "lib/net40/H.InputSimulator.dll",
+        "lib/net40/H.InputSimulator.xml",
+        "lib/net45/H.InputSimulator.dll",
+        "lib/net45/H.InputSimulator.xml",
+        "lib/netstandard1.1/H.InputSimulator.dll",
+        "lib/netstandard1.1/H.InputSimulator.xml",
+        "lib/netstandard2.0/H.InputSimulator.dll",
+        "lib/netstandard2.0/H.InputSimulator.xml",
+        "nuget_icon.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "H.InputSimulator >= 1.2.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Aadhil\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Aadhil\\source\\repos\\GW2AutoLogin\\GW2AutoLogin\\GW2AutoLogin.csproj",
+      "projectName": "GW2AutoLogin",
+      "projectPath": "C:\\Users\\Aadhil\\source\\repos\\GW2AutoLogin\\GW2AutoLogin\\GW2AutoLogin.csproj",
+      "packagesPath": "C:\\Users\\Aadhil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aadhil\\source\\repos\\GW2AutoLogin\\GW2AutoLogin\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Aadhil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "H.InputSimulator": {
+            "target": "Package",
+            "version": "[1.2.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

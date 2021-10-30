@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GW2AutoLogin", "GW2AutoLogin\GW2AutoLogin.csproj", "{EF3A6E91-891C-4C95-AD19-77567DBF423B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF3A6E91-891C-4C95-AD19-77567DBF423B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3A6E91-891C-4C95-AD19-77567DBF423B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3A6E91-891C-4C95-AD19-77567DBF423B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3A6E91-891C-4C95-AD19-77567DBF423B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1422BB8E-BF1B-4722-80A5-BFEA3B33C810}
+	EndGlobalSection
+EndGlobal

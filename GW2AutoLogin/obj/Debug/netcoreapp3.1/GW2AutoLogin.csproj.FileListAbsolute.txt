@@ -1,0 +1,14 @@
+C:\Users\Aadhil\source\repos\GW2AutoLogin\GW2AutoLogin\bin\Debug\netcoreapp3.1\GW2AutoLogin.exe
+C:\Users\Aadhil\source\repos\GW2AutoLogin\GW2AutoLogin\bin\Debug\netcoreapp3.1\GW2AutoLogin.deps.json
+C:\Users\Aadhil\source\repos\GW2AutoLogin\GW2AutoLogin\bin\Debug\netcoreapp3.1\GW2AutoLogin.runtimeconfig.json
+C:\Users\Aadhil\source\repos\GW2AutoLogin\GW2AutoLogin\bin\Debug\netcoreapp3.1\GW2AutoLogin.runtimeconfig.dev.json
+C:\Users\Aadhil\source\repos\GW2AutoLogin\GW2AutoLogin\bin\Debug\netcoreapp3.1\GW2AutoLogin.dll
+C:\Users\Aadhil\source\repos\GW2AutoLogin\GW2AutoLogin\bin\Debug\netcoreapp3.1\GW2AutoLogin.pdb
+C:\Users\Aadhil\source\repos\GW2AutoLogin\GW2AutoLogin\obj\Debug\netcoreapp3.1\GW2AutoLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aadhil\source\repos\GW2AutoLogin\GW2AutoLogin\obj\Debug\netcoreapp3.1\GW2AutoLogin.AssemblyInfoInputs.cache
+C:\Users\Aadhil\source\repos\GW2AutoLogin\GW2AutoLogin\obj\Debug\netcoreapp3.1\GW2AutoLogin.AssemblyInfo.cs
+C:\Users\Aadhil\source\repos\GW2AutoLogin\GW2AutoLogin\obj\Debug\netcoreapp3.1\GW2AutoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Aadhil\source\repos\GW2AutoLogin\GW2AutoLogin\obj\Debug\netcoreapp3.1\GW2AutoLogin.dll
+C:\Users\Aadhil\source\repos\GW2AutoLogin\GW2AutoLogin\obj\Debug\netcoreapp3.1\GW2AutoLogin.pdb
+C:\Users\Aadhil\source\repos\GW2AutoLogin\GW2AutoLogin\obj\Debug\netcoreapp3.1\GW2AutoLogin.genruntimeconfig.cache
+C:\Users\Aadhil\source\repos\GW2AutoLogin\GW2AutoLogin\bin\Debug\netcoreapp3.1\H.InputSimulator.dll
